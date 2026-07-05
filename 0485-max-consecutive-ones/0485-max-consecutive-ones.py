@@ -3,7 +3,7 @@ class Solution:
         count=0
         maxi=0
         for i in nums:
-            if i == 1:
+            if i:
                 count+=1
             else:
                 count=0
