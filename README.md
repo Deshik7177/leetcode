@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deshik7177/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Deshik7177/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Deshik7177/leetcode/tree/master/0027-remove-element) |
+| [1470-shuffle-the-array](https://github.com/Deshik7177/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Deshik7177/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
