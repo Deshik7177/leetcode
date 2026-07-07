@@ -1,10 +1,6 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         arr=""
-        # if len(word1) == len(word2):
-        #     for i in range(len(word1)):
-        #         arr += word1[i]
-        #         arr += word2[i]
         n=min(len(word1),len(word2))
         for i in range(n):
             arr += word1[i]
