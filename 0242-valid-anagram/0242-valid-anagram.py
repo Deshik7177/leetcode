@@ -12,8 +12,8 @@ class Solution:
             if i in freq:
                 freq[i]-=1
             else:
-                freq[i]=1
+                return False
         for value in freq.values():
-            if value>=1:
+            if value!=0:
                 return False
         return True
