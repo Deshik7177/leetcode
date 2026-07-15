@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deshik7177/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deshik7177/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Deshik7177/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deshik7177/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Deshik7177/leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Deshik7177/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Deshik7177/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deshik7177/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Deshik7177/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Deshik7177/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Deshik7177/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deshik7177/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Deshik7177/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deshik7177/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deshik7177/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
