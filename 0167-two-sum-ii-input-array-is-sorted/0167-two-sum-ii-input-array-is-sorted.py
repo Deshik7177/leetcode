@@ -1,9 +1,12 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        dictionary={}
-        for index, value in enumerate(numbers):
-            x=target-value
-            if x in dictionary:
-                return sorted([index+1,dictionary[x]+1])
-            else:
-                dictionary[value]=index
+        left=0
+        right=len(numbers)-1
+        while left < right:
+            total=numbers[left]+numbers[right]
+            if total==target:
+                return [left+1,right+1]
+            elif total>target:
+                right-=1
+            elif total<target:
+                left+=1
