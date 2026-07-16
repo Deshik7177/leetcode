@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Deshik7177/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Deshik7177/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Deshik7177/leetcode/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deshik7177/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Deshik7177/leetcode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Deshik7177/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Deshik7177/leetcode/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Deshik7177/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Deshik7177/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deshik7177/leetcode/tree/master/0242-valid-anagram) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deshik7177/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deshik7177/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
