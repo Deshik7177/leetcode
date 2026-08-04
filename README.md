@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deshik7177/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Deshik7177/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Deshik7177/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deshik7177/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deshik7177/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Deshik7177/leetcode/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Deshik7177/leetcode/tree/master/0069-sqrtx) |
 | [1406-stone-game-iii](https://github.com/Deshik7177/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deshik7177/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deshik7177/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Deshik7177/leetcode/tree/master/1406-stone-game-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Deshik7177/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
