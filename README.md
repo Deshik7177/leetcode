@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Deshik7177/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deshik7177/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Deshik7177/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deshik7177/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deshik7177/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Deshik7177/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deshik7177/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deshik7177/leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deshik7177/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Deshik7177/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deshik7177/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deshik7177/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deshik7177/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Deshik7177/leetcode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Deshik7177/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deshik7177/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deshik7177/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deshik7177/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1406-stone-game-iii](https://github.com/Deshik7177/leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deshik7177/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
