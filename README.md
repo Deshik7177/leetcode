@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deshik7177/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Deshik7177/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Deshik7177/leetcode/tree/master/0115-distinct-subsequences) |
 | [1406-stone-game-iii](https://github.com/Deshik7177/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deshik7177/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deshik7177/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Deshik7177/leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Deshik7177/leetcode/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Deshik7177/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Deshik7177/leetcode/tree/master/1510-stone-game-iv) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Deshik7177/leetcode/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deshik7177/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
